@@ -1,0 +1,44 @@
+﻿header {
+	padding: 20px 0 20px;
+}
+
+.auth {
+	margin-bottom: 20px;
+}
+.auth form{
+	margin-bottom: 20px;
+}
+
+.panel-footer {
+	overflow: hidden;
+}
+	.author {
+		float: left;
+	}
+	.more {
+		float: right;
+	}
+.list_article .panel-body img {
+	width: 30%;
+	float: left;
+	margin-right: 10px;
+}
+
+.article .panel-body img {
+	width: 100%;
+}
+#text_comment {
+	margin-bottom: 10px;
+	resize: none;
+}
+
+
+#pagination {
+	padding: 0 0;
+}
+
+footer p{
+	font-weight: bold;
+	padding: 5px 0 10px; 
+}
+
